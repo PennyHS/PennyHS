@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Penny
 
-Software Engineer with 2 years of professional experience, passionate about building elegant solutions to complex problems. My journey spans full-stack development, cloud architecture, and data analytics.
+Software Engineer with  professional experience, passionate about building elegant solutions to complex problems. My journey spans full-stack development, cloud architecture, and data analytics.
 
 ## 💻 Technical Expertise
 
