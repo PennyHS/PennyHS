@@ -18,12 +18,4 @@ I specialize in creating responsive web applications with a focus on user experi
 
 Constantly exploring emerging technologies and expanding my skill set. Currently diving deeper into cloud architecture patterns and advanced frontend frameworks.
 
-## 🤝 Let's Connect
-
-Open to networking, collaboration, and helping others on their coding journey. Feel free to reach out for discussions on software development, data analytics, or tech in general!
-<!---
-PennyHS/PennyHS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
 
