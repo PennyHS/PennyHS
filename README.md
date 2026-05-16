@@ -1,18 +1,15 @@
 # 👋 Hi there! I'm Penny
 
-Software Engineer with hands-on experience, passionate about building elegant solutions to complex problems. My journey spans full-stack development, cloud architecture, and data analytics.
+Full-stack developer, focused on backend systems, REST APIs, and cloud-deployed web applications. I also work with React on the frontend and have a background in industrial IoT.
 
-## 💻 Technical Expertise
+## 🛠 Tech Stack
 
-- **Languages**: JavaScript, Python, Java, C#, SQL
-- **Frontend**: React, HTML/CSS, ASP.NET MVC
-- **Cloud**: AWS (S3, SageMaker), Azure
-- **ML/AI**: Regression, Classification, Clustering, CNN, Reinforcement Learning
-- **Tools**: Visual Studio, Jira, Git, pandas, numpy, scikit-learn
-
-## 🚀 What I Do
-
-I specialize in creating responsive web applications with a focus on user experience and code quality. My approach combines technical expertise with collaborative problem-solving to deliver maintainable solutions that make an impact.
+**Backend:** Node.js · Express · PostgreSQL · MySQL · REST API · JWT
+**Frontend:** React · TypeScript · JavaScript · HTML5 · CSS3
+**Cloud & Tools:** AWS · Render · GitLab · Git · CI/CD
+**Automation & AI:** n8n · OpenAI API · Gmail API
+**IoT:** Ignition SCADA · ifm IO-Link · MQTT
+**Data (academic):** Python · pandas · scikit-learn · Jupyter Notebook
 
 ## 🌱 Always Learning
 
