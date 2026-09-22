@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Penny
+# I'm Penny
 
 Full-stack developer, focused on backend systems, REST APIs, and cloud-deployed web applications. I also work with React on the frontend and have a background in industrial IoT.
 
