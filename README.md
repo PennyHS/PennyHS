@@ -2,7 +2,7 @@
 
 Full-stack developer focused on backend systems, REST APIs, and cloud-deployed web applications. I also work with React on the frontend and have a background in industrial IoT.
 
-**Portfolio:** [Portfolio](https://www.pennyhsiao.com) · **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/penny-hsiao1)
+[Portfolio](https://www.pennyhsiao.com) · [LinkedIn](https://www.linkedin.com/in/penny-hsiao1)
 
 ## Tech Stack
 
